@@ -1,0 +1,17 @@
+{
+    "name": "matframework/load",
+    "description": "Siple lib for organize requirung php-files",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HeadMad",
+            "email": "kov.ps@ya.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
